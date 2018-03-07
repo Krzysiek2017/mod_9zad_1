@@ -1,0 +1,25 @@
+{
+  "name": "zad_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pattern.js",
+  "dependencies": {
+    "mongoose": "^5.0.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krzysiek2017/mod_9zad_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krzysiek2017/mod_9zad_1/issues"
+  },
+  "homepage": "https://github.com/Krzysiek2017/mod_9zad_1#readme"
+}
