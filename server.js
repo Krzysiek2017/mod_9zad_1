@@ -101,7 +101,7 @@ const updadeUserPassword = function() {
             return user.save(function(err) {
                 if (err) throw err;
 
-                console.log('Uzytkownik ' + user.name + ' zostal pomyslnie zaktualizowany');
+                console.log('Uzytkownik ' + user.username + ' zostal pomyslnie zaktualizowany');
             })
         })
 }
